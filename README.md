@@ -6,11 +6,9 @@
 
 ### Organizations
 
-<table border="0" cellspacing="0" cellpadding="6">
-  <tr>
-    <td><img src="https://github-mc-widget.vercel.app/api/badge/org?login=Karton-Modding" alt="Karton-Modding"></td>
-    <td><img src="https://github-mc-widget.vercel.app/api/badge/org?login=Kart-Forks" alt="Kart-Forks"></td>
-  </tr>
-</table>
+<p>
+  <img src="https://github-mc-widget.vercel.app/api/badge/org?login=Karton-Modding" alt="Karton-Modding">
+  <img src="https://github-mc-widget.vercel.app/api/badge/org?login=Kart-Forks" alt="Kart-Forks">
+</p>
 
 ![Total Downloads](https://github-mc-widget.vercel.app/api/badge/profile)
