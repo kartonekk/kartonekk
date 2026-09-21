@@ -4,6 +4,11 @@
   <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/kartonekk/kartonekk/gitascii/profiles/default/dark.svg" width="100%">
 </picture>
 
+<table border="0" cellspacing="0" cellpadding="6">
+  <tr>
+    <td><img src="https://github-mc-widget.vercel.app/api/badge/org?login=Karton-Modding" alt="Karton-Modding"></td>
+    <td><img src="https://github-mc-widget.vercel.app/api/badge/org?login=Kart-Forks" alt="Kart-Forks"></td>
+  </tr>
+</table>
+
 ![Total Downloads](https://github-mc-widget.vercel.app/api/badge/profile)
-![Karton-Modding](https://github-mc-widget.vercel.app/api/badge/org?login=Karton-Modding)
-![Kart-Forks](https://github-mc-widget.vercel.app/api/badge/org?login=Kart-Forks)
