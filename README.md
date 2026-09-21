@@ -5,3 +5,4 @@
 </picture>
 
 ![Total Downloads](https://github-mc-widget.vercel.app/api/badge/profile)
+![Organizations](https://github-mc-widget.vercel.app/api/badge/orgs)
