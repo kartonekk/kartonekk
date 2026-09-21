@@ -5,4 +5,5 @@
 </picture>
 
 ![Total Downloads](https://github-mc-widget.vercel.app/api/badge/profile)
-![Organizations](https://github-mc-widget.vercel.app/api/badge/orgs)
+![Karton-Modding](https://github-mc-widget.vercel.app/api/badge/org?login=Karton-Modding)
+![Kart-Forks](https://github-mc-widget.vercel.app/api/badge/org?login=Kart-Forks)
