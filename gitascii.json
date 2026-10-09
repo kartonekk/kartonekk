@@ -11548,35 +11548,26 @@
       },
       "size": {
         "width": 800,
-        "height": 136
+        "height": 96
       },
       "config": {
         "selectedTechs": [
           "js",
           "ts",
-          "react",
           "nextjs",
           "nodejs",
-          "tailwind",
-          "postgres",
           "docker",
           "git",
           "html",
           "css",
           "py",
-          "cs",
-          "php",
           "java",
           "fastapi",
           "mongodb",
           "supabase",
-          "mysql",
           "github",
           "vercel",
-          "linux",
-          "vscode",
-          "figma",
-          "cloudflare"
+          "linux"
         ],
         "theme": "dark",
         "perLine": 16
