@@ -1,8 +1,8 @@
-### Mods
-
 <p>
   <img src="https://github-mc-widget.vercel.app/api/badge/profile" alt="Total Downloads" width="100%">
 </p>
+
+### Mods
 
 <p>
   <a href="https://modrinth.com/mod/headlocator"><img src="https://github-mc-widget.vercel.app/api/badge/mod?id=head-locator" alt="Head Locator" width="49%"></a>
