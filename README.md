@@ -7,8 +7,6 @@
 <p>
   <a href="https://modrinth.com/mod/headlocator"><img src="https://github-mc-widget.vercel.app/api/badge/mod?id=head-locator" alt="Head Locator" width="49%"></a>
   <a href="https://modrinth.com/mod/spoty-widget"><img src="https://github-mc-widget.vercel.app/api/badge/mod?id=spoty-widget" alt="Spoty Widget" width="49%"></a>
-  <a href="https://modrinth.com/mod/tiny"><img src="https://github-mc-widget.vercel.app/api/badge/mod?id=tiny" alt="Tiny Players" width="49%"></a>
-  <a href="https://modrinth.com/mod/kck"><img src="https://github-mc-widget.vercel.app/api/badge/mod?id=kck" alt="Kart's Chaotic Kit" width="49%"></a>
 </p>
 
 ### Organizations
